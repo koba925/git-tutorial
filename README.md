@@ -7,3 +7,4 @@ GitHub実践入門の第4章にしたがって実行していきます。
   - feature-C
   - feature-D
   - feature-E
+  - feature-F
